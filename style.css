@@ -1,0 +1,37 @@
+body{
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} 
+
+form{
+margin-top: 150px;
+background-color:greenyellow;
+padding: 15px;
+border-radius: 5px;
+}
+
+input{
+  border-radius: 5px;
+  
+}
+
+label{
+    font-weight: 700;
+}
+
+#botao{
+    background-color: blue;
+    color: aliceblue;
+    padding: 4px;
+    font-weight: 600;
+}
+
+#resultado{
+  
+    font-weight:600;
+}
+
+
